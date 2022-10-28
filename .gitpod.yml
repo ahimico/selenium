@@ -1,0 +1,9 @@
+tasks:
+  - name: Setup
+    init: >
+      sudo apt-get update &&
+      sudo apt install firefox &&
+      pip install selenium webdriver-manager
+
+
+
