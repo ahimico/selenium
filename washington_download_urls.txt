@@ -1,0 +1,12 @@
+https://s3.amazonaws.com/capitalbikeshare-data/202101-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202102-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202103-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202104-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202105-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202106-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202107-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202108-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202109-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202110-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202111-capitalbikeshare-tripdata.zip
+https://s3.amazonaws.com/capitalbikeshare-data/202112-capitalbikeshare-tripdata.zip
